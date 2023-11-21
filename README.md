@@ -11,5 +11,3 @@ In 2018 I earned my bachelor's degree in Business Management. Even so, over the 
 Between 2018 and 2020, I took a bold step and lived in Sydney, Australia, to explore life in a new cultural context. There I started my studies in programming and had the opportunity to live and work using only English. Aside from that, I am also proficient in Italian, in addition to my native language, Portuguese.
 
 I am known as a quick learner with strong interpersonal skills, always ready to support my colleagues and work collaboratively in fast-paced environments. I find myself very creative which leads to find innovative solutions, while my passion for technology motivates me to create outstanding web experiences. Feel free to get in contact if you feel like we could colaborate! =)
-
-<img src="https://github-readme-stats.vercel.app/api?username=mariosanseverino&show_icons=true&theme=transparent" />

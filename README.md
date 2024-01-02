@@ -6,7 +6,7 @@
 
 <h2>About me</h2>
 
-<strong>Full Stack Developer</strong>, focused on Front-end technologies such as TypeScript, Next.js, and Tailwind CSS. My goal is to cultivate a successful career as a remote developer within an international company, where I can contribute my skills and expertise to create exceptional and meaningful user interfaces.
+<strong>Front-end Developer</strong>, focused on technologies such as TypeScript, Next.js, and Tailwind CSS. My goal is to cultivate a successful career as a remote developer within an international company, where I can contribute my skills and expertise to create exceptional and meaningful user interfaces.
 
 In 2018 I earned my bachelor's degree in Business Management. Even so, over the years, I've had the opportunity to wear different hats – as a Graphic Designer, Digital Marketing Analyst and now, as a Web Developer.
 

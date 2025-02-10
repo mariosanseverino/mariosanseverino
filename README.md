@@ -6,13 +6,11 @@
 
 <h2>About me</h2>
 
-<strong>Front-end Developer</strong>, focused on technologies such as TypeScript, Next.js, and Tailwind CSS. My goal is to cultivate a successful career as a remote developer within an international company, where I can contribute my skills and expertise to create exceptional and meaningful user interfaces.
+Based in Porto Alegre, Brazil, I am a <strong>Front-end developer</strong> passionate about crafting intuitive user experiences. With a background in UX, graphic design, and digital marketing, I blend creativity with code to build high-impact solutions that drive better results for our clients.
 
-In 2018 I earned my bachelor's degree in Business Management. Even so, over the years, I've had the opportunity to wear different hats – as a Graphic Designer, Digital Marketing Analyst and now, as a Web Developer.
+Currently growing as a Salesforce Developer at Object Edge, I excel on problem-solving, collaboration, and continuous learning. With seven Salesforce certifications and counting, I’m working toward becoming a tech lead on an international level.
 
-Between 2018 and 2020, I took a bold step and lived in Sydney, Australia, to explore life in a new cultural context. There I started my studies in programming and had the opportunity to live and work using only English. Aside from that, I am also proficient in Italian, in addition to my native language, Portuguese.
-
-I am known as a quick learner with strong interpersonal skills, always ready to support my colleagues and work collaboratively in fast-paced environments. I find myself very creative which leads to find innovative solutions, while my passion for technology motivates me to create outstanding web experiences. Feel free to get in contact if you feel like we could colaborate! =)
+Feel free to get in contact if you feel like we could colaborate! =)
 
 <h2>Stack:</h2>
 <div>

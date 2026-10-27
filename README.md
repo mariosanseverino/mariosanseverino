@@ -10,9 +10,6 @@ Based in Porto Alegre, Brazil, I am a Salesforce Developer focused on building i
 
 With a background in UX, graphic design, and digital marketing, I approach development with a product mindset, creating real problems solutions that are both technically robust and intuitive for users. Currently at Object Edge, I collaborate with global teams to build AI-driven Salesforce solutions and continuously explore how intelligent automation can transform the CRM ecosystem.
 
-📱 +55 51 997956402
-📧 marioaugusto.sanseverino@gmail.com
-
 <h2>Stats:</h2>
 
 <table>
